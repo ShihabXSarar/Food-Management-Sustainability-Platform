@@ -1,0 +1,8 @@
+{
+  "name": "EcoNourish AI",
+  "description": "An AI-powered food management platform aligning with SDG 2 & 12 to reduce waste, optimize nutrition, and foster community sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
