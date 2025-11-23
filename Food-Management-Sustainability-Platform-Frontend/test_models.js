@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyBK99DuFy9JsLaeXs6qHQey06wEnCwGrA0";
+const apiKey = "your api please mr copy cat";
 
 async function listModels() {
     try {
